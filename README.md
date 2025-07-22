@@ -1,5 +1,4 @@
 # MIMIC-IV-ECG-Ext-Text-Image
-MEETI: A Multimodal ECG Dataset from MIMIC-IV-ECG with Signals, Images, Features and Interpretations
 
 Dataset：MEETI: Multimodal Description of MIMIC-IV-ECG with ECG Signals, Images, Feature Values and Diagnostic Texts (https://zenodo.org/records/15893351)
 
